@@ -15,7 +15,7 @@ using namespace std;
 //string name takes any name inputted. I wrote my name shortened as "Jask"
 //int runningTotal is the sequence summation of the alphabets ASCII values.
 int main() {
-    string alphabet = "zyxwvutsrqponmlkjihgfedcba";
+    string alphabet = "zyxwvutsrqponmlkjihgfedcbabcdedfghijklmnopqrstuvwxyz";
     string name = "hello";
     int runningTotal = 0;
 
