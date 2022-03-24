@@ -18,5 +18,6 @@ int main(){
         text << "This is line 1. \n";
         text << "This is line 2. \n";
 
-
+    ofstream binary; binary.open("myBinaryFile.data");
+        const unsigned short kBinaryData[] = { 26946, 24942, 31090, 25632, 29793, 8289, 28518, 8306, 28537, 33141, 39308 };
 }
