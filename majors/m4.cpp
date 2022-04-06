@@ -16,4 +16,10 @@ int main(){
             torText << "Miami Heat, 109-114 \n";
             torText << "Orlando Magic, 102-89 \n";
             torText << "Minnesota Timberwolves, 125-102 \n";
+
+            ofstream bklynText; bklynText.open("Brooklyn Nets.txt");
+            bklynText << "Miami Heat, 110-95";
+            bklynText << "Detroit Pistons, 130-123";
+            bklynText << "Atlanta Hawks, 115-122";
+
 }
