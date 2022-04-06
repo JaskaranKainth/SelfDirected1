@@ -22,4 +22,9 @@ int main(){
             bklynText << "Detroit Pistons, 130-123";
             bklynText << "Atlanta Hawks, 115-122";
 
+            ofstream phxText; phxText.open("Phoenix Suns.txt");
+            phxText << "Oklahoma Thunder, 96-117";
+            phxText << "Golden State Warriors, 107-103";
+            phxText << "Denver Nuggets, 140-130";
+
 }
