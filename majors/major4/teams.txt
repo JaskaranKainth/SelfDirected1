@@ -1,0 +1,3 @@
+torontoRaptors.txt
+atlantaHawks.txt
+utahJazz.txt
